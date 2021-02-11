@@ -1,5 +1,7 @@
 # CppND-System-Monitor
 
+All tasks have been implemented by me. Project has been reviewed by Udacity reviewer and has fulfilled all requirements. Status: Passed.
+
 Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
 
 Follow along with the classroom lesson to complete the project!
